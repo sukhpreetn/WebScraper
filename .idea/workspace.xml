@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04dc3d69-4505-463a-8449-6a5db415edce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZovOjgcMRLe24ZHP1NcoWzAHEb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="weatherscraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WebScrapper" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weatherscraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.weatherscraper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04dc3d69-4505-463a-8449-6a5db415edce" name="Default Changelist" comment="" />
+      <created>1585518326310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585518326310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="688" height="225" key="GridCell.Tab.0.bottom" timestamp="1585519863320">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="583" height="281" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1585518816699" />
+    <state width="688" height="225" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1585519863320" />
+    <state width="688" height="225" key="GridCell.Tab.0.center" timestamp="1585519863319">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="583" height="281" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1585518816698" />
+    <state width="688" height="225" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1585519863319" />
+    <state width="688" height="225" key="GridCell.Tab.0.left" timestamp="1585519863318">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="583" height="281" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1585518816697" />
+    <state width="688" height="225" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1585519863318" />
+    <state width="688" height="225" key="GridCell.Tab.0.right" timestamp="1585519863319">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="583" height="281" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1585518816698" />
+    <state width="688" height="225" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1585519863319" />
+    <state x="229" y="70" key="SettingsEditor" timestamp="1585518339479">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="229" y="70" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1585518339479" />
+  </component>
+</project>
